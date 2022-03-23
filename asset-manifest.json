@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FEM-Ping_coming_soon_page_REACT/static/css/main.32a03378.css",
+    "main.js": "/FEM-Ping_coming_soon_page_REACT/static/js/main.5de4d802.js",
+    "static/js/787.c856441d.chunk.js": "/FEM-Ping_coming_soon_page_REACT/static/js/787.c856441d.chunk.js",
+    "static/media/illustration-dashboard.png": "/FEM-Ping_coming_soon_page_REACT/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
+    "static/media/instagram.svg": "/FEM-Ping_coming_soon_page_REACT/static/media/instagram.1c6dad268e43cbd1f0930f02815f1302.svg",
+    "static/media/twitter.svg": "/FEM-Ping_coming_soon_page_REACT/static/media/twitter.64e67a5f96475ba1512c44aa17ae615c.svg",
+    "index.html": "/FEM-Ping_coming_soon_page_REACT/index.html",
+    "static/media/facebook.svg": "/FEM-Ping_coming_soon_page_REACT/static/media/facebook.f5a88599d98af1297c42197c0e97f3c9.svg",
+    "main.32a03378.css.map": "/FEM-Ping_coming_soon_page_REACT/static/css/main.32a03378.css.map",
+    "main.5de4d802.js.map": "/FEM-Ping_coming_soon_page_REACT/static/js/main.5de4d802.js.map",
+    "787.c856441d.chunk.js.map": "/FEM-Ping_coming_soon_page_REACT/static/js/787.c856441d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a03378.css",
+    "static/js/main.5de4d802.js"
+  ]
+}
