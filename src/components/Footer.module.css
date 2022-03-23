@@ -29,3 +29,18 @@
     font-size: .5rem;
     color: hsl(0, 0%, 59%)
 }
+
+.iconMediaFacebook:hover, .iconMediaTwitter:hover, .iconMediaInstagram:hover {
+    background-color: #4f7df3;
+}
+
+.iconMediaFacebook svg:hover, .iconMediaTwitter svg:hover, .iconMediaInstagram svg:hover {
+    filter: brightness(0) invert(1)
+}
+
+@media screen and (min-width: 768px) {
+    .socialMedias {
+        margin-top: 3rem;
+    }
+
+}
