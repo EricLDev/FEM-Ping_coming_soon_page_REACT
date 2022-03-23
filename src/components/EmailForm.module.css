@@ -1,0 +1,55 @@
+.emailForm {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.emailForm input, .emailForm button {
+    padding: .65rem 1.5rem;
+    margin: .25rem 0;
+    border-radius: 1.5rem;
+    border: none;
+}
+
+.emailForm input {
+    border: 1px solid hsl(223, 100%, 88%);
+    outline: none;
+}
+
+::placeholder {
+    color: hsl(223, 100%, 88%)
+}
+
+.emailForm button {
+    background-color: hsl(223, 87%, 63%);
+    color: white;
+    font-weight: 600;
+    font-size: .6rem;
+    box-shadow: 0px 8px 15px hsl(223, 100%, 88%);
+    cursor: pointer;
+    border: 1px solid hsl(223, 87%, 63%)
+}
+
+.emailForm button:hover {
+    background-color: hsla(223, 87%, 63%, 0.76);
+    border: 1px solid hsla(223, 87%, 63%, 0.76);
+}
+
+.message {
+    font-size: .5rem;
+    text-align: left;
+    padding-left: 1.5rem;
+}
+
+.success {
+    color: hsla(223, 87%, 63%, 0.76);
+    ;
+}
+
+.error {
+    color: hsl(354, 100%, 66%);
+}
+
+.outlineError {
+    border: 1px solid hsl(354, 100%, 66%) !important;
+}

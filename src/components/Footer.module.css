@@ -1,0 +1,31 @@
+.socialMedias {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+    margin-top: 5rem;
+}
+
+.socialMedias>div {
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid hsl(223, 100%, 88%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 .25rem;
+}
+
+.iconMediaFacebook svg {
+    width: .5rem;
+
+}
+
+.iconMediaTwitter svg, .iconMediaInstagram svg {
+    width: .75rem;
+}
+
+.copyright {
+    font-size: .5rem;
+    color: hsl(0, 0%, 59%)
+}
