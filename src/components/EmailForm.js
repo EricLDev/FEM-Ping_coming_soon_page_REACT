@@ -20,14 +20,13 @@ const EmailForm = () => {
 			setMessage("Please provide a valid email address");
 		} else {
 			setIsValid(true);
-			setMessage("The entered email is valid");
 		}
 	};
 
 	return (
 		<form className={classes.emailForm} onSubmit={onSubmitHandler}>
 			<input className={`${!isValid ? classes.outlineError : ""}`} type="text" placeholder="Your email address..." onChange={onChangeHandler} />
-			<div className={`${classes.message} ${isValid ? classes.success : classes.error}`}>{message}</div>
+			<div className={`${classes.message} ${!isValid ? classes.error : ""}`}>{message}</div>
 			<button>Notify Me</button>
 		</form>
 	);
