@@ -1,7 +1,7 @@
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-layout-with-react-form-validation-SkVSKxFfc]
-- Live Site URL: [https://ericl81.github.io/FEM-Ping_coming_soon_page_REACT/]
+- Live Site URL: [https://ericldev.github.io/FEM-Ping_coming_soon_page_REACT/]
 
 # Frontend Mentor - Ping coming soon page
 
